@@ -1,5 +1,4 @@
 /*
-
 tttPlayGround()
 il costruttore di default. Azzera il contenuto di playground e
 imposta prossimoG=1;
@@ -19,7 +18,6 @@ riga e col . Quindi aggiorna il valore di prossimoG per dare
 il turno all’altro giocatore (se è 1 passa a 2, se è 2 passa a 1).
 restituisce false se non è possibile fare la mossa (true se è ok).
 void reset()
-
 */
 
 #include <iostream>
